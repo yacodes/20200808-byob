@@ -2,10 +2,16 @@
 
 * Lineup
 
-| Time          | Music                | VJ         | SMM |
-|---------------+----------------------+------------+-----|
-| 22:30 - 23:00 | notchenko?           | satyarthms | --- |
-| 23:00 - 23:30 | J21A & C0694501U     |            | --- |
-| 23:30 - 00:00 | monekeer             |            | --- |
-| 00:00 - 00:30 | dadaisme             |            | --- |
-| 00:30 - 01:00 | aleksandr yakunichev | postviolet | --- |
+| Time          | Music                       | VJ         | SMM |
+|---------------+-----------------------------+------------+-----|
+| 22:30 - 23:00 | Structured Noise Collective | satyarthms | --- |
+| 23:00 - 23:30 | J21A & C0694501U            | ---------- | --- |
+| 23:30 - 00:00 | monekeer                    | ---------- | --- |
+| 00:00 - 00:30 | dadaisme                    | ---------- | --- |
+| 00:30 - 01:00 | Aleksandr Yakunichev        | postviolet | --- |
+
+* SMM
+  - [ ] Name
+  - [ ] Photo
+  - [ ] Links
+  - [ ] Description
