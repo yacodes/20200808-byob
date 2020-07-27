@@ -18,14 +18,14 @@
 * Artists
 ** Aleksandr Yakunichev & Postviolet
 *** Photo
-[[./.media/yakunichev-postnova.jpg]]
+    [[./.media/yakunichev-postnova.jpg]]
 *** Description
-Виолетта Постнова - арт-директор и партнер в студии дизайна ESH Gruppa, преподаватель в Школе дизайна НИУ ВШЭ, факультет дизайна и программирования. Участник международных выставок и творческих резиденций в области цифрового искусства.
+    Виолетта Постнова - арт-директор и партнер в студии дизайна ESH Gruppa, преподаватель в Школе дизайна НИУ ВШЭ, факультет дизайна и программирования. Участник международных выставок и творческих резиденций в области цифрового искусства.
 
-Александр Якуничев - музыкант, разработчик, организатор мероприятий, резидент SoundArtist.ru. Использует TidalCycles и SuperCollider как основные музыкальные инструменты.
+    Александр Якуничев - музыкант, разработчик, организатор мероприятий, резидент SoundArtist.ru. Использует TidalCycles и SuperCollider как основные музыкальные инструменты.
 *** Links
-https://ya.codes/
-https://twitter.com/yacodes/
-https://twitter.com/postviolet/
-http://www.violettapostnova.com/
-https://www.youtube.com/channel/UCoXvOIUBIC1Asfl6SAtt90Q/
+    - https://ya.codes/
+    - https://twitter.com/yacodes/
+    - https://twitter.com/postviolet/
+    - http://www.violettapostnova.com/
+    - https://www.youtube.com/channel/UCoXvOIUBIC1Asfl6SAtt90Q/
