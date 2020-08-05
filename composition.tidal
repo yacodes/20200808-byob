@@ -1,0 +1,9 @@
+
+
+d1 $ degradeBy 0.5 $ n "e3*16" # s "superpiano"
+
+d2 $ s "arpy*4" # speed (range 1 2 $ fast 1.2 $ sine)
+
+
+
+hush
